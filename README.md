@@ -1,2 +1,2 @@
 # JpaEntityGenerator
-Generates your jpa entites using your database connection.
+Generates your JPA Entities using the underlying database connection.
